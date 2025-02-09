@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainrajat254&label=Profile%20views&color=0e75b6&style=flat" alt="jainrajat254" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jainrajat254" target="blank"><img src="https://img.shields.io/twitter/follow/jainrajat254?logo=twitter&style=for-the-badge" alt="jainrajat254" /></a> </p>
-
 - 🔭 I’m currently working on **Medico**
 
 - 👯 I’m looking to collaborate on **Android App projects**
